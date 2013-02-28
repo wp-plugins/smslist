@@ -16,7 +16,10 @@ SMSList wordpress eklentisi ile smslist ' inize kayıt olan kişilere sms gönde
 *  [Bizi ziyaret edin!.] (http://gayretsoft.com/)
 
 ###SMSList eklentisi ile neler yapılır?
-*  Eklentinizi kurduktan sonra ana sayfanıza bir kutu eklenir. Bu kutu yardımıyla ziyaretçiler cep telefon numaralarını size gönderir. Sizde SMSList yönetim panelinden ziyaretçilerinize yeni haberlerinizi SMS ile gönderebilirsiniz.
+*  Eklentinizi kurduktan sonra ana sayfanızda SMSList eklantisi görünür. Eklenti sayesinde sizden SMS ile duyuru almak isteyen ziyaretçiler cep telefon numaralarını sisteme kayıt eder. Sizde SMSList yönetim panelinden ziyaretçilerinize yeni haber ve duyurularınızı SMS ile gönderebilirsiniz.
+*  Sistem kullanıcının cep telefonuna gönderilen onay kodu ile çalıştığından izinli reklam gönderim yasal kurallarına uygundur. Ziyaretçi istediği zaman listeden kendi cep telefonu numarasını kaldırabilir.
+*  SMSList sayesinde Webmaster'lar, tasarım firmaları ve ajanslar müşterilerinin web sitelerine ekleyecekleri bu eklenti ile katma değer sağlarlar ve müşterilerinin memnuniyetini arttırırlar.
+*  SMSList'i bütün Web siteleri, Dernekler, Vakıflar, Sendikalar, Siyasi Parti Teşkilatları, Meslek Örgütleri, Esnaf Odaları, Mağazacılık ve Perakende Sektörü, Eğitim Sektörü, Dağıtım Sektörü, Turizm ve Eğlence Sektörü, Üretim Sektörü, Otomotiv Sektörü, Bankacılık ve Finans Sektörü, Aracı Kurumlar, Muhasebeciler, Mali Müşavirler, Avukatlar, Doktorlar, Hastane, Klinik ve Poliklinikler, Labarotuarlar, Spor Merkezleri, Spor Kulüpleri kısaca iletişimin bir zorunluluk olduğu her kurum ve sektör SMSList'i kullanabilir.
 
 == Installation ==
 
