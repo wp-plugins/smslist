@@ -1,17 +1,22 @@
-﻿=== Plugin Name ===
-Contributors: gayretsoft
-Tags: sms, sms newsletter
+﻿=== SMSList ===
+Contributors: GayretSoft
+Tags: sms, sms newsletter, send sms
 Requires at least: 2.8
 Tested up to: 2.8 > 3.5.1
 Stable tag: 4.3
-License: GPLv3
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+License: GPLv2 veya üstü
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-SMSList
+SMSList eklentisi ile artık toplu SMS göndermek çok kolay!
 
 == Description ==
 
 SMSList wordpress eklentisi ile smslist ' inize kayıt olan kişilere sms gönderebilirsiniz.
+
+*  [Bizi ziyaret edin!.] (http://gayretsoft.com/)
+
+###SMSList eklentisi ile neler yapılır?
+*  Eklentinizi kurduktan sonra ana sayfanıza bir kutu eklenir. Bu kutu yardımıyla ziyaretçiler cep telefon numaralarını size gönderir. Sizde SMSList yönetim panelinden ziyaretçilerinize yeni haberlerinizi SMS ile gönderebilirsiniz.
 
 == Installation ==
 
@@ -25,3 +30,7 @@ SMSList wordpress eklentisi ile smslist ' inize kayıt olan kişilere sms gönde
   girerek sisteme kendinizi tanıtın.
 
 Artık "SMSList" menüsü altında "SMS Gönder" alt menüsü yardımıyla sms gönderebilirsiniz.
+
+== ChangeLog ==
+= 1.0 =
+* Başlangıç versiyonu. Herhangi bir değişiklik yok
