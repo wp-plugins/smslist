@@ -11,9 +11,9 @@ SMSList eklentisi ile artık toplu SMS göndermek çok kolay!
 
 == Description ==
 
-SMSList wordpress eklentisi ile smslist ' inize kayıt olan kişilere sms gönderebilirsiniz.
+SMSList wordpress eklentisi ile *SMSList*'inize kayıt olan kişilere sms gönderebilirsiniz.
 
-*  [Bizi ziyaret edin!.] (http://gayretsoft.com/)
+*  Bizi ziyaret edin : http://www.gayretsoft.com
 
 ###SMSList eklentisi ile neler yapılır?
 *  Eklentinizi kurduktan sonra ana sayfanızda SMSList eklantisi görünür. Eklenti sayesinde sizden SMS ile duyuru almak isteyen ziyaretçiler cep telefon numaralarını sisteme kayıt eder. Sizde SMSList yönetim panelinden ziyaretçilerinize yeni haber ve duyurularınızı SMS ile gönderebilirsiniz.
@@ -23,17 +23,17 @@ SMSList wordpress eklentisi ile smslist ' inize kayıt olan kişilere sms gönde
 
 == Installation ==
 
-1.Eklentiler bölümünden SMSList ekletisini yükleyin.
-2.SMSList eklentisi yüklendikten sonra "Eklentiler" menüsünün altındaki "Yüklü Eklentiler" alt menüsüne gidin.
-3.SMSList eklantisi bulun ve etkinleştirin.
-4.Etkinleştirme işleminden sonra, menü listesinde "SMSList" adında yeni bir menü oluşacaktır.
-5."SMSList" menü başlığı altında, "SMSList" alt menüsüne tıklayın. Hakkında bölümünde "Eğer sisteme kayıtlı değil iseniz, kayıt olmak için tıklayınız."
+1. Eklentiler bölümünden SMSList ekletisini yükleyin.
+1. **SMSList** eklentisi yüklendikten sonra "Eklentiler" menüsünün altındaki "Yüklü Eklentiler" alt menüsüne gidin.
+1. **SMSList** eklantisi bulun ve etkinleştirin.
+1. Etkinleştirme işleminden sonra, menü listesinde "SMSList" adında yeni bir menü oluşacaktır.
+1. "**SMSList**" menü başlığı altında, "SMSList" alt menüsüne tıklayın. Hakkında bölümünde "Eğer sisteme kayıtlı değil iseniz, kayıt olmak için tıklayınız."
   butonuna tıklayın ve sisteme ücretsiz kayıt olun.
-6."SMSList" menü başlığı altında "Ayarlar" alt menüsüne tıklayın, "SMSList Ayarları" sekmesinde gerekli bölgelere oluşturduğunuz hesap bilgilerini
-  girerek sisteme kendinizi tanıtın.
+1. "**SMSList**" menü başlığı altında "Ayarlar" alt menüsüne tıklayın, "SMSList Ayarları" sekmesinde gerekli bölgelere oluşturduğunuz hesap bilgilerini
+  girerek sisteme kendinizi tanıtın. 
 
-Artık "SMSList" menüsü altında "SMS Gönder" alt menüsü yardımıyla sms gönderebilirsiniz.
+1. Artık "SMSList" menüsü altında "SMS Gönder" alt menüsü yardımıyla sms gönderebilirsiniz.
 
 == ChangeLog ==
 = 1.0 =
-* Başlangıç versiyonu. Herhangi bir değişiklik yok
+* İlk versiyon.
