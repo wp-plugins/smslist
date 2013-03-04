@@ -85,7 +85,10 @@ class WordpressAction {
     $output = curl_exec($ch);
     curl_close($ch);
 	
-		return $output;
+	
+	$arrayElements = preg_split('/\t+/', $output);
+	
+	return $arrayElements;
 	
 	} else 
 			{
@@ -261,17 +264,17 @@ public function SendValidateMessage($phoneNumber, $validationCode)
 {
 	$origin = $this->getVariables('origin');
 	
-	$orRe = preg_split('/\s+/', $origin);
-	foreach($orRe as $parse)
+	//$orRe = preg_split('/\s+/', $origin);
+	/*foreach($origin as $parse)
 		{
 			if($parse != ""){
 			$ak = $parse;
 			break;
 		}
-         }
+         }*/
 	
 	$xml_data = '<?xml version="1.0" encoding="utf-8"?>'.
-	'<smspack ka="'.$this->getUsername().'" pwd="'.$this->getPassword().'" org="'.$ak.'">
+	'<smspack ka="'.$this->getUsername().'" pwd="'.$this->getPassword().'" org="'.$origin[0].'">
 	<mesaj>
 	<metin>Dogrulama Kodunuz : '.$validationCode.'</metin>
 	<nums>'. $phoneNumber .'</nums>

@@ -24,16 +24,16 @@ SMSList wordpress eklentisi ile *SMSList*'inize kayıt olan kişilere sms gönde
 == Installation ==
 
 1. Eklentiler bölümünden SMSList ekletisini yükleyin.
-1. **SMSList** eklentisi yüklendikten sonra "Eklentiler" menüsünün altındaki "Yüklü Eklentiler" alt menüsüne gidin.
-1. **SMSList** eklantisi bulun ve etkinleştirin.
+1. SMSList eklentisi yüklendikten sonra "Eklentiler" menüsünün altındaki "Yüklü Eklentiler" alt menüsüne gidin.
+1. SMSList eklantisi bulun ve etkinleştirin.
 1. Etkinleştirme işleminden sonra, menü listesinde "SMSList" adında yeni bir menü oluşacaktır.
-1. "**SMSList**" menü başlığı altında, "SMSList" alt menüsüne tıklayın. Hakkında bölümünde "Eğer sisteme kayıtlı değil iseniz, kayıt olmak için tıklayınız."
+1. "SMSList" menü başlığı altında, "SMSList" alt menüsüne tıklayın. Hakkında bölümünde "Eğer sisteme kayıtlı değil iseniz, kayıt olmak için tıklayınız."
   butonuna tıklayın ve sisteme ücretsiz kayıt olun.
-1. "**SMSList**" menü başlığı altında "Ayarlar" alt menüsüne tıklayın, "SMSList Ayarları" sekmesinde gerekli bölgelere oluşturduğunuz hesap bilgilerini
+1. "SMSList" menü başlığı altında "Ayarlar" alt menüsüne tıklayın, "SMSList Ayarları" sekmesinde gerekli bölgelere oluşturduğunuz hesap bilgilerini
   girerek sisteme kendinizi tanıtın. 
 
 1. Artık "SMSList" menüsü altında "SMS Gönder" alt menüsü yardımıyla sms gönderebilirsiniz.
 
 == ChangeLog ==
 = 1.0 =
-* İlk versiyon.
+* Hatalı orginator sorgulama yapılmasından ötürü SMSList Wordpress Eklentisi küçük güncellemeye tabi tutulmuştur.

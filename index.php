@@ -209,8 +209,8 @@ if($orginatorResults == 'ACCOUNTNOTFOUND'){
 }else if($result == 'error'){
 echo "<option>Origin bulunamadı.</option>";
 }else{
-	$orRe = preg_split('/\s+/', $orginatorResults);
-	foreach($orRe as $parse)
+	//$orRe = preg_split('/\s+/', $orginatorResults);
+	foreach($orginatorResults as $parse)
 	{
 			if($parse != "")
 			echo '<option value="'.$parse.'">'.$parse.'</option>';
